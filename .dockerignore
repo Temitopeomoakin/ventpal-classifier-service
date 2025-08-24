@@ -1,0 +1,13 @@
+.git
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pt
+*.bin
+*.safetensors
+*.log
+.env
+.venv/
+.cache/
+.ipynb_checkpoints/
